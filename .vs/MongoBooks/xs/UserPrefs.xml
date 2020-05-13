@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{05BD4062-F830-4774-B8ED-186701CA635D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MongoBooks PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MongoBooks/Startup.cs">
+    <Files>
+      <File FileName="MongoBooks/appsettings.json" Line="20" Column="2" />
+      <File FileName="MongoBooks/Models/BookstoreDatabaseSettings.cs" Line="16" Column="2" />
+      <File FileName="MongoBooks/Models/Book.cs" Line="17" Column="6" />
+      <File FileName="MongoBooks/Startup.cs" Line="16" Column="19" />
+      <File FileName="MongoBooks/Services/BookService.cs" Line="27" Column="10" />
+      <File FileName="MongoBooks/Controllers/BooksController.cs" Line="4" Column="34" />
+      <File FileName="MongoBooks/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MongoBooks" expanded="True">
+            <Node name="MongoBooks" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
